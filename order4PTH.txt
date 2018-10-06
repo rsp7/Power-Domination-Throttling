@@ -1,0 +1,13 @@
+Power throttling numbers for order 4
+
+Graph 1: 4
+Graph 2: 4
+Graph 3: 3
+Graph 4: 2
+Graph 5: 3
+Graph 6: 3
+Graph 7: 3
+Graph 8: 2
+Graph 9: 3
+Graph 10: 2
+Graph 11: 2

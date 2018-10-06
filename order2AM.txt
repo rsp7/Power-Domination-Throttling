@@ -1,0 +1,8 @@
+
+Graph 1, order 2.
+00
+00
+
+Graph 2, order 2.
+01
+10

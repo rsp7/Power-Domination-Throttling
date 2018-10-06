@@ -1,0 +1,6 @@
+Power throttling numbers for order 3
+
+Graph 1: 3
+Graph 2: 3
+Graph 3: 2
+Graph 4: 2

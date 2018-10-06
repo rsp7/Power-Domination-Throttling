@@ -1,0 +1,36 @@
+Power throttling numbers for order 5
+
+Graph 1: 5
+Graph 2: 5
+Graph 3: 4
+Graph 4: 3
+Graph 5: 2
+Graph 6: 4
+Graph 7: 4
+Graph 8: 3
+Graph 9: 4
+Graph 10: 3
+Graph 11: 3
+Graph 12: 2
+Graph 13: 4
+Graph 14: 3
+Graph 15: 3
+Graph 16: 3
+Graph 17: 2
+Graph 18: 3
+Graph 19: 2
+Graph 20: 3
+Graph 21: 3
+Graph 22: 3
+Graph 23: 2
+Graph 24: 3
+Graph 25: 3
+Graph 26: 2
+Graph 27: 3
+Graph 28: 3
+Graph 29: 2
+Graph 30: 2
+Graph 31: 3
+Graph 32: 2
+Graph 33: 2
+Graph 34: 2

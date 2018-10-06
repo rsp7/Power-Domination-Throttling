@@ -1,0 +1,4 @@
+Power throttling numbers for order 2
+
+Graph 1: 2
+Graph 2: 2
